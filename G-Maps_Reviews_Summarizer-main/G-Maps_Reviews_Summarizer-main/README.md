@@ -42,15 +42,5 @@ Command Prompt
 Use code with caution.
 You will be prompted to enter the URL of the website you want to scrape reviews from.
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Output
-
-The script will scrape reviews from the specified URL using a headless browser.
-It will then use Google's AI Platform Natural Language API to summarize the reviews, highlighting positive and negative aspects as well as popular items mentioned.
-The summary will be printed to the console.
-
-____________________________________________________________________________________________________________________________________________________________________________________________________________
-
-![Reviews](https://github.com/AryanGithub000/G-Maps_Reviews_Summarizer/blob/main/Reviews_2.png)
 
